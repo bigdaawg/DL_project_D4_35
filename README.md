@@ -1,1 +1,2 @@
-# DL_project_D4_35
+# stock market prediction for predicting stock prices.
+using lstm time series 
